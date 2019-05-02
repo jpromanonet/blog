@@ -18,7 +18,3 @@
 
 * [Untitled](libros/untitled.md)
 
-## Random
-
-* [Untitled](random/untitled.md)
-
