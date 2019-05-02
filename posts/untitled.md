@@ -97,6 +97,38 @@ En fin, si llegaste a este punto del texto y me bancaste leyendo hasta acá, aho
 
 ## 5. Todo se resume en...
 
+#### Base de Datos.
+
+De nada sirve saber escribir código sino podemos manejar datos con el mismo o lo hacemos de forma incorrecta \(no, un archivo .dat no es una DB\), por ende, es recomendable instalar para comenzar MySQL, el cual podes encontrar para Windows o Linux, a su vez si lo queres con apache, php y demás corriendo en Windows, podes bajar un WAMP o un XAMPP lo cual si estas comenzando te va facilitar muchismo el proceso de programar, cargar en tu server\(localhost\) y luego interactuar con la DB.
+
+También esta bueno bajarse MS SQL\(es gratis si la usas para programar o como estudiante desde la pagina de microsoft\)
+
+Ambos motores de base de datos tienen extensa documentación e inclusive tutoriales.
+
+A su vez, esta bueno que aprendas MongoBD ya que a diferencia de las otras dos, que son base de datos relacionales, está es documental y trabaja con objetos JSON\(objetos de JavaScript\)
+
+#### Lenguajes
+
+Ahora si, vamos con los lenguajes "nuevos" y como no puede faltar… es hora de aprender PHP ya que aparte de ser un lenguaje muy organico, el casi 90% de internet está escrito en PHP, luego es elemental saber JavaScript, que nada tiene que ver con Java\(era solo una estrategia de Marketing\) que es un lenguaje muy pero muy sucio en su estructura y cada dia nace un framework nuevo del mismo, pero es un standard de la industria y por ende es necesaria esa relación amor odio.
+
+A su vez, es necesario que aprendas C y C++, que son los padres y abuelos de todo, algo asi como "Odin, padre de todo" de los lenguajes de programación \(junto con Assembler que si estas loco como yo, vas a aprender en algún punto\), luego se decanta solo que aprendas C\#, el cual tambien nos lleva a una relación amor odio pero es necesario saberlo\(mal que me pese\)
+
+JAVA! Si, asi… JAVA!!! ya que como bien dicen ellos mas de 3 millones de dispositvos trabajan con Java, Android esta escrito en Java, miles de Apps para Ios estan en Java, las heladeras usan Java, si estas en Japon seguro que tu inodoro usa JAVA!
+
+Perl, Lisp… porque son los lenguajes propios de la ciencia de la computación, los mismos no solo te van a enseñar a pensar como programador, sino que te van a dar el marco teorico-cientifico para enfrentarte a los problemas desde el lapiz y papel hasta la consola de comandos para resolverlos.
+
+Python!… aprendelo, no preguntes, aprendelo, un día Python va a salvar el mundo y vos podes ser el programador que lo salve por saber Python!
+
+Date una pasada por la suite de Visual Studio e instala un RedHat \(gratis para Developers\) junto con su suite y herramientas de desarrollo.
+
+APRENDE GIT! Si, asi… "APRENDE GIT" ya que el mundo utiliza el modelo GIT para hacer repositorios de codigo y su versionado… create un github y si no sos amigo del Tio Bill, create una cuenta en Gitlab y ya que estas, bajate gitlab, instalala en un linux viejito y create tu propio server local de gitlab, o si te parece muy pirado comenza por instalar Bonobo GIT, el cual lo corres en Windows\(pero no te quedes, recomiendo fuertemente el experimento con Gitlab\)
+
+Documenta, busca libros de documentación y aprender a documentar BIEN, a su vez, busca libros de testing y aprende a testear o al menos a tener una clara idea de los conceptos "load test, "black box text", "smoke test", etc. A su vez proba con instalar un bugtracker como Mantis o Redmine y aprender el proceso de levantar un bug, resolverlo, etc.
+
+Metete en alguna comundiad de loquitos como vos, y compartir, ayuda, y pregunta, pregunta y pregunta, porque si! Hay que preguntarlo todo hasta que nosotros estemos del otro lado del mostrador dando las respuestas.
+
+Busca libros sobre "Buenas Practicas", esto es SUPER MEGA IMPORTANTE y por lo que más quieras, respeta la famosa y tan antigua pero valida hoy dia, regla de "80 caracteres"\(corre ya a investigar eso\).
+
 ## 6. Fuentes, Libros, Links importantes
 
 ## 7. Extras!
