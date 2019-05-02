@@ -2,7 +2,7 @@
 
 * [INICIO](README.md)
 
-## Posts
+## General
 
 * [Untitled](posts/untitled.md)
 
