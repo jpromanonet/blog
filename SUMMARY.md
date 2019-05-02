@@ -2,23 +2,15 @@
 
 * [INICIO](README.md)
 
-## Programación
+## Posts
 
-* [Untitled](programacion/untitled.md)
+* [Untitled](posts/untitled.md)
 
 ## Experimentos
 
 * [Untitled](experimentos/untitled.md)
 
-## Running
+## Info
 
-* [Untitled](running/untitled.md)
-
-## Libros
-
-* [Untitled](libros/untitled.md)
-
-## Random
-
-* [Untitled](random/untitled.md)
+* [Contacto](info/untitled.md)
 
