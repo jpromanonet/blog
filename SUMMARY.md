@@ -5,7 +5,7 @@
 
 ## General
 
-* [02/05/2019 \| FAQ Para futuros programadores.](posts/untitled.md)
+* [02/05/2019 \| FAQ Para futuros programadores.](general/untitled.md)
 
 ## Experimentos
 
