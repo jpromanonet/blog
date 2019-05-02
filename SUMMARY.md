@@ -1,6 +1,7 @@
 # Table of contents
 
 * [INICIO](README.md)
+* [webSite](http://jpromano.net)
 
 ## General
 
@@ -13,4 +14,5 @@
 ## Info
 
 * [Contacto](info/untitled.md)
+* [El editor](info/el-editor.md)
 
