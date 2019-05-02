@@ -2,7 +2,14 @@
 
 ## 1. ¿Qué no es un programador?
 
-
+* _Zero Cool_ 
+* Steve Jobs
+* _Ningún super hacker de película_ 
+* No hackean facebook\(bueno si, pero no porque sean programadores\) 
+* _Rockstars_ 
+* Genios sacados de una serie 
+* _Los creadores de Skynet_ 
+* Tony Stark\(aunque si sabe programar\)
 
 ## 2. ¿Qué si es un programador\(tentativo\)?
 
