@@ -13,7 +13,13 @@
 
 ## 2. ¿Qué si es un programador\(tentativo\)?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+* _Steve Wozniak_ 
+* Un friki del software libre 
+* _Un buen samaritano que comparte conocimiento con la comunidad._ 
+* Un Curioso 
+* _Dennis Richard o Linus Torvalds_ 
+* Alguien que sabe que el apellido Lovelace ES super importante. :D 
+* Y que sabe que Turing fue padre aunque no tuvo hijos humanos.
 
 ## 3. ¿Por donde comienzo?
 
