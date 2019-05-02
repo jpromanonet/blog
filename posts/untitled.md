@@ -41,6 +41,37 @@ Leyendo, escribiendo código, leyendo aun más, escribiendo más código, compar
 
 Es esencial aprender HTML, tanto en su versión 4 como la 5, ya que si bien no es un lenguaje de programación sino un formato de texto enriquecido, de una forma simple y relativamente fácil vas a comprender como escribir en código y automáticamente vas a tener un resultado tangible en el navegador … pero, ¿por qué HTML4?, ¿no es viejo y discontinuado?… si, es totalmente cierto, sin embargo aprender HTML4 nos enseña a hacer mucho con muy poco y a su vez nos obliga a aprender CSS\(hojas de estilo en cascada\), para poder darle "vida" al sitio web y que no sea un esqueleto documental, luego, cuando puedas manejar, los frames, tables, .css, etc vas a estar listo para ponerte al día y dar el salto a HTML5, Bootstrap y cuanto framework ande dando vueltas.
 
+#### SEGUNDO
+
+Recomiendo, más no es esencial, pero si una gran herramienta, aprender uno o varios lenguajes denominados "viejos", ¿y por qué?, esto al igual que aprender HTML4 es útil para que podamos aprender a resolver problemas complejos con pocas herramientas, ya que nos enseñan a "pensar como programadores" y no solo a escribir y meter código en cantidad sin objetivo alguno, porque como explica Eric Raymond, "si tomamos un gran problema y lo dividimos en pequeños problemas, vamos a resolverlo eventualmente".
+
+### ¿Lenguajes que han caído en desuso pero que cumplen el objetivo del punto?
+
+Qbasic, Fortran, COBOL, Clipper, VisualBasic, LibertyBasic.
+
+#### TERCERO
+
+Y ahora es cuando se pone super-archi-mega-ultra-requete-divertido. Creyendo que seguiste el punto uno y dos anteriormente explicados, es hora de comenzar de lleno con Ciencias de la Computación y más de uno se cuestionara ¿qué relación hay con "ser programador"?, la respuesta es como mencione antes, un buen programador sabe como y porque, tiene el tan aclamado por estos días "know how" y un mal programador, mete código hasta que funcione o peor.
+
+Por ende, si llegaste al punto donde podes escribir un .html con .css, o armar un .exe o .rs con lenguajes "viejos", seria recomendable que investigues los siguientes temas:
+
+* Desarrollo\(proyectos, análisis funcional, testing, debugging, estructura e implementación, etc\)
+* Arquitectura de Computadoras.
+* Algoritmos y Estructuras de Datos
+* Matemática para Ciencias de la Computación \(si, tenes que entender algo de Matemática, aunque sea finita\)
+* Sistemas Operativos
+* Redes de Computadoras
+* Base de Datos
+* Lenguajes y Compiladores
+* Sistemas Distribuidos
+* Infra
+* Seguridad Informática
+* Linux
+
+### ¿Dijiste Infra, Redes, Seguridad, Linux, eh?
+
+Si, sin duda lo dije, ya que de nada sirve aprender JS o PHP o NodeJS si no podemos montar nuestro propio Apache, etc
+
 ## 6. Fuentes, Libros, Links importantes
 
 ## 7. Extras!
