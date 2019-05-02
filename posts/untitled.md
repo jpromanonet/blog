@@ -131,6 +131,58 @@ Busca libros sobre "Buenas Practicas", esto es SUPER MEGA IMPORTANTE y por lo qu
 
 ## 6. Fuentes, Libros, Links importantes
 
+A continuación dejo fuentes, titulos de libros y demás que creo pueden ser utiles para llevar a cabo algo de lo anteriormente mencionado.
+
+### Programación
+
+\(si otra vez\) les dejo un par de links de sitios muy utiles y didacticos para aprender a programar sin tener conocimientos previos y gratis!
+
+[https://www.codecademy.com](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.codecademy.com%2F%3Ffbclid%3DIwAR0Z4o9NEYV_yiYHb1j1ElvD_kYW8Okl_kKzsMJzaYk8QpfgUSQdTekA68Q&h=AT2L0mLeNuuL_CvSR1glsiJxTRJ77SeADw2DgJMCsFZnGseulIWhYWpFGJPmytNEM2dFwVJ2bH0AXZlX81PKt8L6YrAzO2fy6vFPkzk6nGlgqEVUozSVUuWQrpyCAtEHzRXkaDZeJdawMEkulQ3TqXzx)
+
+[https://www.freecodecamp.com/](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.freecodecamp.com%2F%3Ffbclid%3DIwAR3Q4m-RZ6AN0XNTgeYxCkqq5dD2nOHLerB8IEemLlAwWrwYNTpPbh6s3h0&h=AT1svMDLamJcYCPhhBnkaNlv2MyrBLwIOC-op2-Ak7ZCTkB3oYVWmxapcvUFaWbTYwWxmUgh6DQwulrlC_0ta2596mnHWqHirEl0GptAM7wZma0nzhDUog9ThBpEUwpjK72mhjFQjohPKorfFyTVxYFN)
+
+[https://www.codewars.com](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.codewars.com%2F%3Ffbclid%3DIwAR2fxK_oNwJe1f4sJsU7JWgW2gNOXRj_fn-qZ2jg6eYw4hpUucZOHMt8Des&h=AT3qqvJaztqaIQfAqdQx7hw_AfmlEz2prcCXc20YNKDCa-7JnH_YrwbozWgn5eCX2XxVVN2UU_XONivZS8uf6mpsO65rreH-z8ie1fkp90xxH4GbjkbBQx3oHmMTvdqrAGKpRfN7b7PWaUDjvuM2RIRv)
+
+[https://www.hackerrank.com/](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.hackerrank.com%2F%3Ffbclid%3DIwAR0yFzf-0pv1kMAdthx6HXhYDs1WLo5kTBXpNVeBLbahnh7HJdU1bwQW5oY&h=AT0r4Zf1huwHhvpAKXfXfgTr82WlEtSOZBl50iSkSfMGkm1uZ4cdg9SWho8ilx8JzadELebARG84SqMlFqJxK_eRQY0q8bUIkG9BmtGJhCh2Wi0iTpq-sjBBVf3XX5giaUB90rN0mY6tut8CZmO0-kt7)
+
+[https://www.theodinproject.com/](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.theodinproject.com%2F%3Ffbclid%3DIwAR2-qCa0FT0v5ed1rrBVgDhxqQnbH-1iHiCv-z7zrVcFxiggiLE9pX-kKIo&h=AT35mGpdyB1On2jp6cqY0p8IRj0z_pGFG02eFAtzOZUn9KIWaBu61HAMoH9FXTE8CVisChBD2hM24h0rUOHaupP-djdsr11YTM975gSxcy8nlrSBnKynyFSF8hH9wYp_5NpJR7Wo8vECQhL5B_0tFV1G)
+
+{% embed url="https://ocw.mit.edu/index.htm" %}
+
+### Bases de Datos
+
+[https://university.mongodb.com/](https://l.facebook.com/l.php?u=https%3A%2F%2Funiversity.mongodb.com%2F%3Ffbclid%3DIwAR3xgFx_1Dahw239BtioIC5Hb7Xk53nkCiKO9qwC-vrUuRB9GWMguvta5KU&h=AT1VmuybU8xDNOjh7ynHcNqr0LuaDYdBE2ltPEUpEe6Da4ilkCvKOcn_gkO3lglCDVXid5U13JgXUN0mgrZ6WylQjFDLibbbqrJchl8jx_wls773eAt-lZhvHWAWfX_9ripA8VGxBFmE7LE8xBS86Qwv)
+
+{% embed url="https://dev.mysql.com/doc/" %}
+
+### Ciencias de la Computación
+
+ [https://teachyourselfcs.com/](https://l.facebook.com/l.php?u=https%3A%2F%2Fteachyourselfcs.com%2F%3Ffbclid%3DIwAR0zrvfHoUHD-YGqyBsqZDLUIVZa_9KTEQZodG5l34x2yBbLCbfRahLQjog&h=AT18cNME3i3XL-xBxpMRxyzky7Crhdr27cOwLvJ22fdbwBh01Do22KOOrKAkqy0iskqWfOjJOGqGBnKUc85IILGvYbcYGwNxhFuR-bqJBk6cQ60kJi0XX0Rjr0b-7N7dltQJNjGZcLEzaW2QPh40M60z) \(Lean SI o SI todos los libros aquí mencionados\)
+
+### Lectura Recomendada
+
+‘Sistemas Operativos Modernos’ por el genio de Andrew S. Tanembaum
+
+[https://norbertomn.files.wordpress.com/…/sistemas-operativo…](https://l.facebook.com/l.php?u=https%3A%2F%2Fnorbertomn.files.wordpress.com%2F2013%2F09%2Fsistemas-operativos-modernos.pdf%3Ffbclid%3DIwAR0DFYDXUcePHDODxxvlAkrOTIXv6r_4GA_HPb4dUBsCioMqZtr4aw8f4hU&h=AT1_0EV2HgVDwwEOeWikwcQ7_oCzcG865RBMdn-hQFboV_sRPQ-Lyv9Dwdl3zOM9FVuCtvqlUQmwjq7XZwiZ2JhFqu00Pg2WH9GTElg-i3QtEbb8XaF8ZIsbIK8sdlpjkf4e0LA6-q0goaFCbQNFPRqk)
+
+‘Redes de Computadoras" otra vez por el genio de Tanenbaum.
+
+[https://bibliotecavirtualapure.files.wordpress.com/…/redes\_…](https://l.facebook.com/l.php?u=https%3A%2F%2Fbibliotecavirtualapure.files.wordpress.com%2F2015%2F06%2Fredes_de_computadoras-freelibros-org.pdf%3Ffbclid%3DIwAR1GgUFtb_ENk1BStMt6KkyYiR2F-pUiJCl7GI4iHSFhC8t7h8pa7J9BkXw&h=AT2apwGSKLWDNh5edq7E3M1l2OzYXwRYdZeYAwSx0Z4b606iFXfn4GmeENBihQL2xnoEDeLtnnO3IG4sPDZUgic7Uj_yutoeNXPVQOpzr4t8bnOzuOFeGpkBVNNz2Sfy8OaUlLPZ7MSC5v0rw-Rx34FQ)
+
+‘The Mythical Man Month’ – Frederick P Brooks Jr.
+
+‘UML Distilled, A brief Guide to the Standard Object Modeling Language" - Martin Fowler
+
+‘Rapid Development’ - Steve McConnell
+
+‘Software Configuration Management Patterns: Effective Teamwork, Practical Integration’ - Steve Berczuk y Brad Appleton
+
+‘Code Complete’ - Steve McConnell
+
+‘Object Oriented Software Construction’ - Bertrand Meyer
+
+‘Beginning Programming, All in one desk reference for Dummies’ - Wallace Wang
+
 ## 7. Extras!
 
 ## 8. EOF \(Enf Of File\)
