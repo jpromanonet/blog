@@ -72,6 +72,31 @@ Por ende, si llegaste al punto donde podes escribir un .html con .css, o armar u
 
 Si, sin duda lo dije, ya que de nada sirve aprender JS o PHP o NodeJS si no podemos montar nuestro propio Apache, etc
 
+### ¿Y que debería aprender de Infra?
+
+Te dejo una lista! \(me encantan las listas, hacete la idea\) 
+
+* _Apache_ 
+* Linux \(instala un Debian, un Arch, busca distros, proba, mete mano, rompe y arregla hasta que la tengas bien clara\) 
+* _MySQL / MariaDB \(este punto lo trato abajo\)_ 
+* IIS \(aunque no me agrade, si, es un maldito standard del mercado\)
+* Windows Server \(lo mismo que el maldito IIS\)
+
+### ¿Y de Seguridad y Redes?
+
+Te dejo otra lista!
+
+* _TCP/IP_ 
+* Redes Linux 
+* _Manejar un router, un switch, que es un firewall… aunque sea instalar un OPNSense_ 
+* Virtualizacion\(uno bueno para aprender algo es ProxMox\) 
+* _Unix \(proba con algún sabor de BSD en una maquina virtual, como para tantear un poco\)_ 
+* Copias de seguridad \(un UrBackup en alguna maquina virtual como para ver que onda, no viene mal\)
+
+En fin, si llegaste a este punto del texto y me bancaste leyendo hasta acá, ahora viene LO QUE TENES QUE SABER SI O SI para poder decir "soy programador" y que nadie tenga la menor duda\(y te miren super raro, date por hecho que eso va a pasar y sino pasa no me seguiste hasta acá y fallaste como padawan programador\)
+
+## 5. Todo se resume en...
+
 ## 6. Fuentes, Libros, Links importantes
 
 ## 7. Extras!
