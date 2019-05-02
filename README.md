@@ -18,5 +18,5 @@ Y Running? si, y algo de karate y yoga...
 
 Intente con Docusaurus pero muy a mi pesar no logre hacer deploy en github, a su vez como lei hace un tiempo 'lo importante es empezar a escribir', asi que decidi mantenerlo simple utilizando una plataforma opensource con formato limitado que solo se limita a eso, escribir.
 
-
+#### Para contacto\(saludame con un mail!\) y más info, ir a la sección INFO.
 
