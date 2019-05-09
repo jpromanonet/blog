@@ -9,7 +9,7 @@
 
 ## Experimentos
 
-* [Mayo 2019 \| Sin comida chatarra \(?\)](experimentos/untitled.md)
+* [Un mes sin comida chatarra \(?\)](experimentos/untitled.md)
 
 ## Info
 
