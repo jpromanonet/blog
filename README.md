@@ -10,8 +10,6 @@ Experiencias más que nada que voy relatando como puedo\(porque solo puedo inten
 
 También vas a encontrar reseñas/teorias sobre libros y alguna recomendación perdida.
 
-Experimentos extraños! como por ejemplo, "No comer comida chatarra durante Mayo del 2019".
-
 Y Running? si, y algo de karate y yoga... 
 
 ## ¿Por qué un Gitbook y no una plataforma de blogging?
