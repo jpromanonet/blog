@@ -7,10 +7,6 @@
 
 * [02/05/2019 \| FAQ Para futuros programadores.](general/untitled.md)
 
-## Experimentos
-
-* [Un mes sin comida chatarra \(?\)](experimentos/untitled.md)
-
 ## Info
 
 * [Contacto](info/untitled.md)
