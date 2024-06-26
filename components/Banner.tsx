@@ -7,11 +7,11 @@ export default function Banner(): JSX.Element {
         If you like this content, you can visit my
       </span>
       <a
-        href="https://jpromanonet.vercel.app"
+        href="https://linktr.ee/jpromanonet"
         target="_parent"
         className="text-green-500 underline dark:text-green-300"
       >
-        Website
+        Linktree
       </a>
       .
     </div>
